@@ -1,4 +1,5 @@
 **Project Summary**
+
 This project is a C program designed to process trajectory data to help with contact tracing by analyzing movement records. It calculates distances from home locations, identifies close contacts, and visualizes travel distances. The main stages are:
 
 1. Read and Process the First Record
