@@ -1,0 +1,27 @@
+Stage 1
+==========
+User: #8oz05szh
+Visited location: <-37.817365, 144.968783>
+Start time: 31144
+End time: 32144
+Distance from home: 02.24 km
+
+Stage 2
+==========
+#8oz05szh, distance from home: 02.24 |---
+#8oz05szh, distance from home: 01.43 |--
+#8oz05szh, distance from home: 01.37 |--
+#jon362ft, distance from home: 03.23 |----
+#kwhb16v7, distance from home: 10.71 |----+----+-
+#kwhb16v7, distance from home: 03.31 |----
+#kwhb16v7, distance from home: 01.83 |--
+#kwhb16v7, distance from home: 01.83 |--
+#wuucozwj, distance from home: 08.01 |----+----
+#y4tqqn2s, distance from home: 03.05 |----
+
+Stage 3
+==========
+Number of close-contact pairs: 2
+Longest overlap time: 01877 seconds
+#8oz05szh @ <-37.810009, 144.962800>
+#kwhb16v7 @ <-37.810019, 144.962800>
