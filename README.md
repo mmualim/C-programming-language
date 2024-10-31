@@ -19,3 +19,5 @@ This project is a C program designed to process trajectory data to help with con
 - This stage is for additional optimization but is optional.
 
 Each stage builds functionality step-by-step, moving from basic data handling to more complex analysis and visual representation. This structure makes it easy to understand and expand on each part of the program as it progresses.
+
+Score 8.5/10
